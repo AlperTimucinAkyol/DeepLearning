@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def show(param1,param2, param3, param4) -> None:
-    print(param1,"\n",param2,"\n", param3,"\n", param4)
+    print("1",param1,"\n2.",param2,"\n3.", param3,"\n4.", param4)
 
 def main():
 
